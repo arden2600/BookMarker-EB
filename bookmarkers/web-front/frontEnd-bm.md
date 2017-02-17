@@ -8,9 +8,9 @@
 ---
 
 * **JSON-JSONP**<br>
-  * JSON与JSONP概念区别相关:<br>
-    * [说说JSON与JSONP](http://www.cnblogs.com/dowinning/archive/2012/04/19/json-jsonp-jquery.html)
+  * JSON与JSONP概念区别相关:<br>
+    * [说说JSON与JSONP](http://www.cnblogs.com/dowinning/archive/2012/04/19/json-jsonp-jquery.html)
     <br><br>
   * 跨域相关问题:<br>
-    * [js中几种实用的跨域方法原理详解](http://www.cnblogs.com/2050/p/3191744.html)<br>
+    * [js中几种实用的跨域方法原理详解](http://www.cnblogs.com/2050/p/3191744.html)<br>
     * [前端解决跨域问题的8种方案](http://www.cnblogs.com/JChen666/p/3399951.html)
