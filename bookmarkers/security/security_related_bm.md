@@ -19,3 +19,7 @@
     * **[数字证书原理](http://www.cnblogs.com/JeffreySun/archive/2010/06/24/1627247.html)** <br>
   文中首先解释了加密解密的一些基础知识和概念，然后通过一个加密通信过程的例子说明了加密算法的作用，以及数字证书的出现所起的作用。接着对数字证书做一个详细的解释，并讨论一下windows中数字证书的管理...
 <br>
+  * **OAuth**<br>
+ OAuth2.0认证相关的内容介绍。
+<br>
+    * **[OAuth2.0原理介绍](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)** <br>
