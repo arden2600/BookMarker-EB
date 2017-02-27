@@ -7,3 +7,5 @@
     
 ---
 ### Oracle
+  * Oracle中connect by prior递归树形查询：<br>
+ Oracle中start with...connect by prior子句用法 connect by 是结构化查询中用到的,可以查询Oracle表中某个树形节点的所有子节点。具体用法，[参考](http://xxciof.blog.163.com/blog/static/7978132720095193113752/)。
