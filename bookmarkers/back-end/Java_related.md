@@ -8,3 +8,8 @@
  列出一些与springmvc开发与文件上传有关的urls.
 <br>
     * [springmvc单(多)文件上传配置与实践过程](http://www.360doc.com/content/14/0726/17/2562177_397241353.shtml) 
+<br>
+
+### JVM虚拟机<br>
+  * JVM虚拟机原理相关<br>
+    * [CSDN:loulanJVM虚拟机原理](http://blog.csdn.net/u010349169/article/category/2620885)
