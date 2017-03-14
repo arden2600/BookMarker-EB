@@ -17,5 +17,5 @@
 <br>
 ---
 * **HTML+CSS**<br>
-  * 表单<br>
-    * [表单提交方式总结](http://www.anyrt.com/blog/list/submit.html)  
+  * 表单<br>
+    * [表单提交方式总结](http://www.anyrt.com/blog/list/submit.html)  
