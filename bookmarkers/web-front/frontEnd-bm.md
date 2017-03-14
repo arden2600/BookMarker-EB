@@ -13,4 +13,9 @@
     <br><br>
   * 跨域相关问题:<br>
     * [js中几种实用的跨域方法原理详解](http://www.cnblogs.com/2050/p/3191744.html)<br>
-    * [前端解决跨域问题的8种方案](http://www.cnblogs.com/JChen666/p/3399951.html)
+    * [前端解决跨域问题的8种方案](http://www.cnblogs.com/JChen666/p/3399951.html)
+<br>
+---
+* **HTML+CSS**<br>
+  * 表单<br>
+    * [表单提交方式总结](http://www.anyrt.com/blog/list/submit.html)  
