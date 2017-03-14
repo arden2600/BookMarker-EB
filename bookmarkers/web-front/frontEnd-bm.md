@@ -4,7 +4,8 @@
 ---
 
 * **JAVASCRIPT**<br>
-  
+  * js与后台数据交互:<br>
+    * [SpringMVC接收页面表单参数几种方式](http://blog.csdn.net/wxwzy738/article/details/9832705)  
 ---
 
 * **JSON-JSONP**<br>
