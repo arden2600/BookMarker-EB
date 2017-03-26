@@ -1,5 +1,5 @@
 ## Java Related BM <br>
-    写下一些java相关书签资源，方便我看一些我需要的信息。
+    写下一些java相关书签资源，方便我看一些我需要的信息。<br>
 <br>
 ### Spring<br>
     这个部分是与spring有关的内容集合。
@@ -13,7 +13,7 @@
 ### JVM虚拟机<br>
 这部分与java的JVM虚拟机内容相关，如何理解JVM，如何使用JVM参数。
   * JVM虚拟机原理相关<br>
-    * [CSDN:loulanJVM虚拟机原理](http://blog.csdn.net/u010349169/article/category/2620885)<br>
+    * [CSDN:loulanJVM虚拟机原理](http://blog.csdn.net/u010349169/article/category/2620885)<br>
 
 ### JAVA-SE
   * [浅谈Java中的hashcode方法](http://www.cnblogs.com/dolphin0520/p/3681042.html)
