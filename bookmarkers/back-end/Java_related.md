@@ -13,4 +13,7 @@
 ### JVM虚拟机<br>
 这部分与java的JVM虚拟机内容相关，如何理解JVM，如何使用JVM参数。
   * JVM虚拟机原理相关<br>
-    * [CSDN:loulanJVM虚拟机原理](http://blog.csdn.net/u010349169/article/category/2620885)
+    * [CSDN:loulanJVM虚拟机原理](http://blog.csdn.net/u010349169/article/category/2620885)<br>
+
+### JAVA-SE
+  * [浅谈Java中的hashcode方法](http://www.cnblogs.com/dolphin0520/p/3681042.html)
