@@ -17,4 +17,5 @@
 ### JAVA-SE
   * [浅谈Java中的hashcode方法](http://www.cnblogs.com/dolphin0520/p/3681042.html)<br>
   * [HashMap的设计原理和实现分析](http://blog.csdn.net/luanlouis/article/details/41576373)<br>
-  * [Java集合框架源码剖析：HashSet 和 HashMap](https://wenku.baidu.com/view/ea6fbb9aed3a87c24028915f804d2b160b4e86d3.html)  
+  * [Java集合框架源码剖析：HashSet 和 HashMap](https://wenku.baidu.com/view/ea6fbb9aed3a87c24028915f804d2b160b4e86d3.html)<br>
+  * [Java HashMap 源码解析](https://segmentfault.com/a/1190000003704860)  
