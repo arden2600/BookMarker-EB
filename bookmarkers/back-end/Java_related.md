@@ -26,7 +26,7 @@
   * [JAVA常用类库/JAVA IO](http://www.cnblogs.com/lcw/p/3540969.html)<br>
   * [Java IO Buffer](http://www.th7.cn/Program/java/201610/992751.shtml) <br>
   * [java io系列12之 BufferedInputStream](http://www.cnblogs.com/skywang12345/p/io_12.html)<br>   
-<br>
+
 #### --Java代码规范--<br>
-  * [阿里巴巴java开发规范](http://pan.baidu.com/s/1dEFfXrb)
-  * [Google-java开发规范](https://google.github.io/styleguide/javaguide.html)
+  * [阿里巴巴java开发规范](http://pan.baidu.com/s/1dEFfXrb)<br>
+  * [Google-java开发规范](https://google.github.io/styleguide/javaguide.html)<br>
