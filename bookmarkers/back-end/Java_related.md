@@ -15,7 +15,8 @@
 这部分与java的JVM虚拟机内容相关，如何理解JVM，如何使用JVM参数。
   * JVM虚拟机原理相关<br>
     * [CSDN:loulanJVM虚拟机原理](http://blog.csdn.net/u010349169/article/category/2620885)<br>
-    * [Java线上应用故障排查之一：高CPU占用](http://blog.csdn.net/blade2001/article/details/9065985)
+    * [Java线上应用故障排查之一：高CPU占用](http://blog.csdn.net/blade2001/article/details/9065985)<br>
+    * [记录 Linux环境下java web项目CPU爆表 “事故”，肇事者：GC](http://www.th7.cn/Program/java/201606/884819.shtml)
 
 ### JAVA-SE<br>
 #### --Java 集合-- <br><br>
