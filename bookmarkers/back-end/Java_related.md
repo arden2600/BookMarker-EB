@@ -5,15 +5,17 @@
    这个部分是与spring有关的内容集合。
 <br>
   * how to use springmvc to upload file <br>
- 列出一些与springmvc开发与文件上传有关的urls.<br>
+  列出一些与springmvc开发与文件上传有关的urls.<br>
     * [springmvc单(多)文件上传配置与实践过程](http://www.360doc.com/content/14/0726/17/2562177_397241353.shtml)<br>
-    * [springmvc上传文件的三种方式](http://www.cnblogs.com/fjsnail/p/3491033.html)    
+    * [springmvc上传文件的三种方式](http://www.cnblogs.com/fjsnail/p/3491033.html)<br>
+    * [jersey 文件上传-使用两种不同的方式](http://blog.csdn.net/wk313753744/article/details/46235895)
 <br>
 
 ### JVM虚拟机<br>
 这部分与java的JVM虚拟机内容相关，如何理解JVM，如何使用JVM参数。
   * JVM虚拟机原理相关<br>
     * [CSDN:loulanJVM虚拟机原理](http://blog.csdn.net/u010349169/article/category/2620885)<br>
+    * [Java线上应用故障排查之一：高CPU占用](http://blog.csdn.net/blade2001/article/details/9065985)
 
 ### JAVA-SE<br>
 #### --Java 集合-- <br><br>
