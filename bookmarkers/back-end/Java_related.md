@@ -6,7 +6,8 @@
 <br>
   * how to use springmvc to upload file <br>
  列出一些与springmvc开发与文件上传有关的urls.<br>
-    * [springmvc单(多)文件上传配置与实践过程](http://www.360doc.com/content/14/0726/17/2562177_397241353.shtml) 
+    * [springmvc单(多)文件上传配置与实践过程](http://www.360doc.com/content/14/0726/17/2562177_397241353.shtml)<br>
+    * [springmvc上传文件的三种方式](http://www.cnblogs.com/fjsnail/p/3491033.html)    
 <br>
 
 ### JVM虚拟机<br>
