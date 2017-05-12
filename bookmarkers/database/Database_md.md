@@ -13,4 +13,3 @@
 ### MongoDB<br>
 * Ubuntu下离线安装MongoDB教程:<br>
   csdn上的关于安装mongodb数据库的教程。在日后若是安装mongodb可以参考。[参考](http://blog.csdn.net/u010858605/article/details/50957610)<br>
-* 
