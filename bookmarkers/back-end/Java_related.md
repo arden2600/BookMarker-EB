@@ -10,6 +10,10 @@
     * [springmvc上传文件的三种方式](http://www.cnblogs.com/fjsnail/p/3491033.html)<br>
     * [jersey 文件上传-使用两种不同的方式](http://blog.csdn.net/wk313753744/article/details/46235895)
 <br>
+#### Spring batch<br>
+* [Spring Batch示例: 读取CSV文件并写入MySQL数据库](https://blog.csdn.net/renfufei/article/details/45894875)<br>
+
+<br>
 
 ### JVM虚拟机<br>
 这部分与java的JVM虚拟机内容相关，如何理解JVM，如何使用JVM参数。
