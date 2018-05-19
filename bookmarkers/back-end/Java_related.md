@@ -9,13 +9,9 @@
     * [springmvc单(多)文件上传配置与实践过程](http://www.360doc.com/content/14/0726/17/2562177_397241353.shtml)<br>
     * [springmvc上传文件的三种方式](http://www.cnblogs.com/fjsnail/p/3491033.html)<br>
     * [jersey 文件上传-使用两种不同的方式](http://blog.csdn.net/wk313753744/article/details/46235895)
-<br>
-<br>
   * how to use spring batch to deal with data <br>
   列出一些与spring batch数据批量处理相关地址：<br>
     * [Spring Batch示例: 读取CSV文件并写入MySQL数据库](https://blog.csdn.net/renfufei/article/details/45894875)<br>
-    * [springmvc上传文件的三种方式](http://www.cnblogs.com/fjsnail/p/3491033.html)<br>
-    * [jersey 文件上传-使用两种不同的方式](http://blog.csdn.net/wk313753744/article/details/46235895)
 <br>
 
 
