@@ -38,3 +38,8 @@
 #### --Java代码规范--<br>
   * [阿里巴巴java开发规范](http://pan.baidu.com/s/1dEFfXrb)<br>
   * [Google-java开发规范](https://google.github.io/styleguide/javaguide.html)<br>
+#### --红黑树--<br>
+  * [重温数据结构：深入理解红黑树](https://blog.csdn.net/u011240877/article/details/53329023#%E4%BA%8C%E5%8F%89%E6%9F%A5%E6%89%BE%E6%A0%91%E7%9A%84%E5%88%A0%E9%99%A4)<br>
+  * [Java 集合深入理解（17）：HashMap 在 JDK 1.8 后新增的红黑树结构](https://blog.csdn.net/u011240877/article/details/53358305#hashmap-%E5%9C%A8-jdk-18-%E4%B8%AD%E6%96%B0%E5%A2%9E%E7%9A%84%E6%93%8D%E4%BD%9C-%E7%BA%A2%E9%BB%91%E6%A0%91%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0-gettreenode)<br>
+  * [HashMap 在 JDK 1.8 后新增的红黑树结构](https://blog.csdn.net/wushiwude/article/details/75331926)<br>
+  * [研究jdk关于TreeMap 红黑树算法实现](https://www.cnblogs.com/huaizuo/p/5444517.html)<br>  
